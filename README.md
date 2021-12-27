@@ -1,1 +1,1 @@
-Website for Tindog using HTML, CSS, and BootStrap.
+Website roject for TinDog(Tinder for dogs) using HTML, CSS, and BootStrap.
